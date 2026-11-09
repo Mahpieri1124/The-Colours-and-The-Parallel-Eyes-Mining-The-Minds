@@ -6,12 +6,13 @@
 **As part of this extensive research design, I want to introduce another applied module and place several very important concepts at its core:**
 ***I will go directly to the central issue.***
 ***What effect does identifying centralized, semi-centralized, or decentralized centres of intelligent or super-intelligent decision-making, within today's highly complex hybrid wars, have on the evolutionary dynamics of the paradigms of sustainable peace and Positive Peace?***
-> 
-### Introducing the following concepts:
-#### Dynamical Hybrid Designations
-#### Dynamical Hybrid Intelligence Gathering
-#### Dynamical Hybrid Hegemony
-#### Dynamical Hybrid Wars
+>>
+>> ## Introducing the following concepts:
+-- Dynamical Hybrid Designations
+-- Dynamical Hybrid Intelligence Gathering
+-- Dynamical Hybrid Hegemony
+-- Dynamical Hybrid Wars
+>>
 
 Examining and proposing solutions for the effects of these extraordinarily complex military–intelligence competitive structures on the lives of civilians and citizens in different societies requires a complete, innovative, and foundational reconsideration of the structures of global peace-oriented organizations that have pursued the goals of peace and sustainable development for years. Here, this constitutes a practical and tangible example of the author-developed concept:
 BAcc-Novelty
