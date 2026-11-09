@@ -34,7 +34,7 @@ Copyrights © 2026 Mohammad Piran All Rights Reserved
 
 ---
 
-# HMC-GATE — ENGLISH TRANSLATION
+## HMC-GATE — ENGLISH TRANSLATION
 
 > **Translation note:** The following is a faithful English translation for accessibility. It is not a replacement for, or alteration of, the Persian original above.
 
@@ -52,19 +52,20 @@ What effect does identifying centralized, semi-centralized, or decentralized cen
 >>
 ### *BAcc-Novelty*
 >>
-*which was introduced in previous projects.*
+### *which was introduced in previous projects.*
 Specific explanation and introduction of the principal related project for this concept:
+>>
 *PIRAN, M. (2026) “From Sunrise to Our Genome — Can We Still Hear the Music — SETE — Variations and Cadences — BAcc-NOVELTY”. Zenodo. Available at: https://doi.org/10.5281/zenodo.23249845.*
 >>
 ## *Authors HMC-Gate for this Repository-Version (23249845)-7[ 1.4.1 ] :*
 >>
 >> *( No More Nostalgia - No More Tragic-Jokes - We Need "Balanced Acceleration of Novelty in Harmony with Hightech Revolution)*
 >>
->> # *<< BAcc-NOVELTY >>*
+>> ### *<< BAcc-NOVELTY >>*
 >>
-# *End of the metacognitive-gate text for the new version.*
-**This text will be placed at the beginning of every file in the new research repository as the central core of this research version.**
-Copyrights © 2026 Mohammad Piran All Rights Reserved
+## *End of the metacognitive-gate text for the new version.*
+### **This text will be placed at the beginning of every file in the new research repository as the central core of this research version.**
+*Copyrights © 2026 Mohammad Piran All Rights Reserved*
 
 ---
 
