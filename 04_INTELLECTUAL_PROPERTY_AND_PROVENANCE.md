@@ -37,20 +37,32 @@ I will go directly to the central issue.
 What effect does identifying centralized, semi-centralized, or decentralized centres of intelligent or super-intelligent decision-making, within today's highly complex hybrid wars, have on the evolutionary dynamics of the paradigms of sustainable peace and Positive Peace?
 >
 *Introducing the following concepts:*
+>
 > **Dynamical Hybrid Designations**
+>
 > **Dynamical Hybrid Intelligence Gathering**
+>
 > **Dynamical Hybrid Hegemony**
+>
 > **Dynamical Hybrid Wars**
 > 
 Examining and proposing solutions for the effects of these extraordinarily complex military–intelligence competitive structures on the lives of civilians and citizens in different societies requires a complete, innovative, and foundational reconsideration of the structures of global peace-oriented organizations that have pursued the goals of peace and sustainable development for years. Here, this constitutes a practical and tangible example of the author-developed concept:
-BAcc-Novelty
+>
+>
+***BAcc-Novelty***
+>
+>
 which was introduced in previous projects.
 Specific explanation and introduction of the principal related project for this concept:
-PIRAN, M. (2026) “From Sunrise to Our Genome — Can We Still Hear the Music — SETE — Variations and Cadences — BAcc-NOVELTY”. Zenodo. Available at: https://doi.org/10.5281/zenodo.23249845.
+>
+>
+*PIRAN, M. (2026) “From Sunrise to Our Genome — Can We Still Hear the Music — SETE — Variations and Cadences — BAcc-NOVELTY”. Zenodo. Available at: https://doi.org/10.5281/zenodo.23249845.*
 Authors HMC-Gate for this Version [ 1.4.1 ] :
-
+>
+>
 **( No More Nostalgia - No More Tragic-Jokes - We Need "Balanced Acceleration of Novelty in Harmony with Hightech Revolution" << BAcc-NOVELTY >>)**
-
+>
+>
 End of the metacognitive-gate text for the new version.
 This text will be placed at the beginning of every file in the new research repository as the central core of this research version.
 Copyrights © 2026 Mohammad Piran All Rights Reserved
