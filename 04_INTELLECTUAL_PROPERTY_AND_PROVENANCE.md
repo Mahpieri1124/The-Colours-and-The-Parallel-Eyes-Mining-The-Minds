@@ -34,7 +34,7 @@ Authors HMC-Gate for this Version [ 1.4.1 ] :
 >
 ***As part of this extensive research design, I want to introduce another applied module and place several very important concepts at its core:
 I will go directly to the central issue.
-What effect does identifying centralized, semi-centralized, or decentralized centres of intelligent or super-intelligent decision-making, within today's highly complex hybrid wars, have on the evolutionary dynamics of the paradigms of sustainable peace and Positive Peace?**@
+What effect does identifying centralized, semi-centralized, or decentralized centres of intelligent or super-intelligent decision-making, within today's highly complex hybrid wars, have on the evolutionary dynamics of the paradigms of sustainable peace and Positive Peace?***
 >
 *Introducing the following concepts:*
 >
