@@ -6,19 +6,23 @@
 مستقیم بر سر اصل می روم
 شناسایی مراکز متمرکز و یا نیمه متمرکز و یا غیرمتمرکز تصمیم گیری های هوشمند و یا فوق هوشمند در بستر جنگ های فوق پیچیده هیبریدی امروزی چه اثری بر داینامیک تکاملی پارادایم صلح پایدار و صلح مثبت می گذارد؟
 معرفی مفاهیم زیر :
-Dynamical Hybrid Designations
-Dynamical Hybrid Intelligence Gathering
-Dynamical Hybrid Hegemony
+>
+Dynamical Hybrid Designations,
+Dynamical Hybrid Intelligence Gathering,
+Dynamical Hybrid Hegemony,
 Dynamical Hybrid Wars
+>
 هبررسی و ارائه راه حل برای تاثیرات این ساختارهای فوق پیچیده رقابتیِ نظامی- اطلاعاتی در زندگی غیرنظامیان و شهروندان در جوامع مختلف نیازمند بازنگری کامل و نوآورانه و زیربنایی در ساختار سازمان های صلح طلب جهانی است که در اینجا نمونه ای کاربردی و ملموس از مفهوم ابداعی :
+>>
 Bacc-Novelty
+>>
 محسوب می شود که در پروژه های قبلی معرفی شد.
 توضیح خاص و معرفی پروژه مرتبط اصلی برای این مفهوم :
-PIRAN, M. (2026) “From Sunrise to Our Genome — Can We Still Hear the Music — SETE — Variations and Cadences — BAcc-NOVELTY”. Zenodo. Available at: https://doi.org/10.5281/zenodo.23249845.
+>>
+>> *PIRAN, M. (2026) “From Sunrise to Our Genome — Can We Still Hear the Music — SETE — Variations and Cadences — BAcc-NOVELTY”. Zenodo. Available at: https://doi.org/10.5281/zenodo.23249845.*
+>>
 Authors HMC-Gate for this Version [ 1.4.1 ] :
-
-( No More Nostalgia - No More Tragic-Jokes - We Need "Balanced Acceleration of Novelty in Harmony with Hightech Revolution" << BAcc-NOVELTY >> 
-
+>> *( No More Nostalgia - No More Tragic-Jokes - We Need "Balanced Acceleration of Novelty in Harmony with Hightech Revolution" << BAcc-NOVELTY >>)*
 پایان متن دروازه فراشناختی برای ورژن جدید.
 این متن بعنوان هسته مرکزی این ورژن پژوهشی در ابتدای همه فایل های ریپوزیتوری جدید قرار خواهد گرفت.
 Copyrights © 2026 Mohammad Piran All Rights Reserved
@@ -32,21 +36,26 @@ Copyrights © 2026 Mohammad Piran All Rights Reserved
 As part of this extensive research design, I want to introduce another applied module and place several very important concepts at its core:
 I will go directly to the central issue.
 What effect does identifying centralized, semi-centralized, or decentralized centres of intelligent or super-intelligent decision-making, within today's highly complex hybrid wars, have on the evolutionary dynamics of the paradigms of sustainable peace and Positive Peace?
-Introducing the following concepts:
-Dynamical Hybrid Designations
-Dynamical Hybrid Intelligence Gathering
-Dynamical Hybrid Hegemony
-Dynamical Hybrid Wars
-Examining and proposing solutions for the effects of these extraordinarily complex military–intelligence competitive structures on the lives of civilians and citizens in different societies requires a complete, innovative, and foundational reconsideration of the structures of global peace-oriented organizations that have pursued the goals of peace and sustainable development for years. Here, this constitutes a practical and tangible example of the author-developed concept:
-BAcc-Novelty
-which was introduced in previous projects.
+>>
+>> *Introducing the following concepts:*
+>> Dynamical Hybrid Designations
+>> Dynamical Hybrid Intelligence Gathering
+>> Dynamical Hybrid Hegemony
+>> Dynamical Hybrid Wars
+>>
+*Examining and proposing solutions for the effects of these extraordinarily complex military–intelligence competitive structures on the lives of civilians and citizens in different societies requires a complete, innovative, and foundational reconsideration of the structures of global peace-oriented organizations that have pursued the goals of peace and sustainable development for years. Here, this constitutes a practical and tangible example of the author-developed concept:*
+>>
+### *BAcc-Novelty*
+>>
+*which was introduced in previous projects.*
 Specific explanation and introduction of the principal related project for this concept:
-PIRAN, M. (2026) “From Sunrise to Our Genome — Can We Still Hear the Music — SETE — Variations and Cadences — BAcc-NOVELTY”. Zenodo. Available at: https://doi.org/10.5281/zenodo.23249845.
+*PIRAN, M. (2026) “From Sunrise to Our Genome — Can We Still Hear the Music — SETE — Variations and Cadences — BAcc-NOVELTY”. Zenodo. Available at: https://doi.org/10.5281/zenodo.23249845.*
+>>
 Authors HMC-Gate for this Version [ 1.4.1 ] :
-
-( No More Nostalgia - No More Tragic-Jokes - We Need "Balanced Acceleration of Novelty in Harmony with Hightech Revolution" << BAcc-NOVELTY >>
-
-End of the metacognitive-gate text for the new version.
+>>
+>> *( No More Nostalgia - No More Tragic-Jokes - We Need "Balanced Acceleration of Novelty in Harmony with Hightech Revolution" << BAcc-NOVELTY >>)*
+>>
+*End of the metacognitive-gate text for the new version.*
 This text will be placed at the beginning of every file in the new research repository as the central core of this research version.
 Copyrights © 2026 Mohammad Piran All Rights Reserved
 
