@@ -15,7 +15,7 @@
 >
 > Dynamical Hybrid Wars
 >
-هبررسی و ارائه راه حل برای تاثیرات این ساختارهای فوق پیچیده رقابتیِ نظامی- اطلاعاتی در زندگی غیرنظامیان و شهروندان در جوامع مختلف نیازمند بازنگری کامل و نوآورانه و زیربنایی در ساختار سازمان های صلح طلب جهانی است که در اینجا نمونه ای کاربردی و ملموس از مفهوم ابداعی6 :
+هبررسی و ارائه راه حل برای تاثیرات این ساختارهای فوق پیچیده رقابتیِ نظامی- اطلاعاتی در زندگی غیرنظامیان و شهروندان در جوامع مختلف نیازمند بازنگری کامل و نوآورانه و زیربنایی در ساختار سازمان های صلح طلب جهانی است که در اینجا نمونه ای کاربردی و ملموس از مفهوم ابداعی :
 >>
 Bacc-Novelty
 >>
@@ -24,9 +24,9 @@ Bacc-Novelty
 >>
 >> *PIRAN, M. (2026) “From Sunrise to Our Genome — Can We Still Hear the Music — SETE — Variations and Cadences — BAcc-NOVELTY”. Zenodo. Available at: https://doi.org/10.5281/zenodo.23249845.*
 >>
-Authors HMC-Gate for this Version [ 1.4.1 ] :p
+Authors HMC-Gate for this Repository-Version (23249845)-[ 1.4.1 ] :
 >> *( No More Nostalgia - No More Tragic-Jokes - We Need "Balanced Acceleration of Novelty in Harmony with Hightech Revolution")
->>  # *<< BAcc-NOVELTY >>*
+>>  ### *<< BAcc-NOVELTY >>*
 >> 
 # *پایان متن دروازه فراشناختی برای ورژن جدید.*
 *این متن بعنوان هسته مرکزی این ورژن پژوهشی در ابتدای همه فایل های ریپوزیتوری جدید قرار خواهد گرفت.*
@@ -57,7 +57,7 @@ Specific explanation and introduction of the principal related project for this 
 >>
 *PIRAN, M. (2026) “From Sunrise to Our Genome — Can We Still Hear the Music — SETE — Variations and Cadences — BAcc-NOVELTY”. Zenodo. Available at: https://doi.org/10.5281/zenodo.23249845.*
 >>
-## *Authors HMC-Gate for this Repository-Version (23249845)-7[ 1.4.1 ] :*
+## *Authors HMC-Gate for this Repository-Version (23249845)-[ 1.4.1 ] :*
 >>
 >> *( No More Nostalgia - No More Tragic-Jokes - We Need "Balanced Acceleration of Novelty in Harmony with Hightech Revolution)*
 >>
