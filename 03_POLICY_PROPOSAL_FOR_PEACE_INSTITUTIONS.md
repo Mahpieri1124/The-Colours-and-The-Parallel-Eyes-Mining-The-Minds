@@ -1,6 +1,8 @@
-# HMC-GATE — AUTHOR-SUPPLIED CENTRAL TEXT
+## HMC-GATE — AUTHOR-SUPPLIED CENTRAL TEXT
+- ### **NOTE : This text will be placed at the beginning of every file in the new research repository as the central core of this research version.**
+Copyrights © 2026 Mohammad Piran All Rights Reserved
 ---
-# HMC-GATE for this Version — ENGLISH TRANSLATION
+### HMC-GATE for this Version — ENGLISH TRANSLATION
 
 > **Translation note:** The following is a faithful English translation for accessibility. It is not a replacement for, or alteration of, the Persian original above.
 > 
@@ -20,13 +22,14 @@ Examining and proposing solutions for the effects of these extraordinarily compl
 BAcc-Novelty
 which was introduced in previous projects.
 Specific explanation and introduction of the principal related project for this concept:
-PIRAN, M. (2026) “From Sunrise to Our Genome — Can We Still Hear the Music — SETE — Variations and Cadences — BAcc-NOVELTY”. Zenodo. Available at: https://doi.org/10.5281/zenodo.23249845.
-Authors HMC-Gate for this Version [ 1.4.1 ] :
 
-( No More Nostalgia - No More Tragic-Jokes - We Need "Balanced Acceleration of Novelty in Harmony with Hightech Revolution" << BAcc-NOVELTY >>
+***PIRAN, M. (2026) “From Sunrise to Our Genome — Can We Still Hear the Music — SETE — Variations and Cadences — BAcc-NOVELTY”. Zenodo. Available at: https://doi.org/10.5281/zenodo.23249845.***
+Authors HMC-Gate for this Repository-Version (23249845)-[ 1.4.1 ] :
 
-End of the metacognitive-gate text for the new version.
-This text will be placed at the beginning of every file in the new research repository as the central core of this research version.
+### - **( No More Nostalgia - No More Tragic-Jokes - We Need "Balanced Acceleration of Novelty in Harmony with Hightech Revolution") << BAcc-NOVELTY >>**
+
+- ***End of the metacognitive-gate text for the new version.***
+- ### **This text will be placed at the beginning of every file in the new research repository as the central core of this research version.**
 Copyrights © 2026 Mohammad Piran All Rights Reserved
 
 ---
