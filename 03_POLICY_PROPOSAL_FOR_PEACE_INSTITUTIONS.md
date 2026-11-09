@@ -1,42 +1,18 @@
-# HMC-GATE — AUTHOR-SUPPLIED CENTRAL TEXT (PERSIAN ORIGINAL)
-
-> **Verbatim preservation notice:** The Persian text below is reproduced as supplied by the author. No spelling, grammar, punctuation, wording, or formatting corrections have been made within the text block.
-
-در ادامه این طراحی گسترده پژوهشی می خوام یک ماژول کاربردی دیگه رو معرفی کنم و مفاهیم بسیار مهمی رو در بطن اون قرار دهم :
-مستقیم بر سر اصل می روم
-شناسایی مراکز متمرکز و یا نیمه متمرکز و یا غیرمتمرکز تصمیم گیری های هوشمند و یا فوق هوشمند در بستر جنگ های فوق پیچیده هیبریدی امروزی چه اثری بر داینامیک تکاملی پارادایم صلح پایدار و صلح مثبت می گذارد؟
-معرفی مفاهیم زیر :
-Dynamical Hybrid Designations
-Dynamical Hybrid Intelligence Gathering
-Dynamical Hybrid Hegemony
-Dynamical Hybrid Wars
-هبررسی و ارائه راه حل برای تاثیرات این ساختارهای فوق پیچیده رقابتیِ نظامی- اطلاعاتی در زندگی غیرنظامیان و شهروندان در جوامع مختلف نیازمند بازنگری کامل و نوآورانه و زیربنایی در ساختار سازمان های صلح طلب جهانی است که در اینجا نمونه ای کاربردی و ملموس از مفهوم ابداعی :
-Bacc-Novelty
-محسوب می شود که در پروژه های قبلی معرفی شد.
-توضیح خاص و معرفی پروژه مرتبط اصلی برای این مفهوم :
-PIRAN, M. (2026) “From Sunrise to Our Genome — Can We Still Hear the Music — SETE — Variations and Cadences — BAcc-NOVELTY”. Zenodo. Available at: https://doi.org/10.5281/zenodo.23249845.
-Authors HMC-Gate for this Version [ 1.4.1 ] :
-
-( No More Nostalgia - No More Tragic-Jokes - We Need "Balanced Acceleration of Novelty in Harmony with Hightech Revolution" << BAcc-NOVELTY >> 
-
-پایان متن دروازه فراشناختی برای ورژن جدید.
-این متن بعنوان هسته مرکزی این ورژن پژوهشی در ابتدای همه فایل های ریپوزیتوری جدید قرار خواهد گرفت.
-Copyrights © 2026 Mohammad Piran All Rights Reserved
-
+# HMC-GATE — AUTHOR-SUPPLIED CENTRAL TEXT
 ---
-
-# HMC-GATE — ENGLISH TRANSLATION
+# HMC-GATE for this Version — ENGLISH TRANSLATION
 
 > **Translation note:** The following is a faithful English translation for accessibility. It is not a replacement for, or alteration of, the Persian original above.
+**As part of this extensive research design, I want to introduce another applied module and place several very important concepts at its core:**
+***I will go directly to the central issue.***
+***What effect does identifying centralized, semi-centralized, or decentralized centres of intelligent or super-intelligent decision-making, within today's highly complex hybrid wars, have on the evolutionary dynamics of the paradigms of sustainable peace and Positive Peace?***
+> 
+### Introducing the following concepts:
+#### Dynamical Hybrid Designations
+#### Dynamical Hybrid Intelligence Gathering
+#### Dynamical Hybrid Hegemony
+#### Dynamical Hybrid Wars
 
-As part of this extensive research design, I want to introduce another applied module and place several very important concepts at its core:
-I will go directly to the central issue.
-What effect does identifying centralized, semi-centralized, or decentralized centres of intelligent or super-intelligent decision-making, within today's highly complex hybrid wars, have on the evolutionary dynamics of the paradigms of sustainable peace and Positive Peace?
-Introducing the following concepts:
-Dynamical Hybrid Designations
-Dynamical Hybrid Intelligence Gathering
-Dynamical Hybrid Hegemony
-Dynamical Hybrid Wars
 Examining and proposing solutions for the effects of these extraordinarily complex military–intelligence competitive structures on the lives of civilians and citizens in different societies requires a complete, innovative, and foundational reconsideration of the structures of global peace-oriented organizations that have pursued the goals of peace and sustainable development for years. Here, this constitutes a practical and tangible example of the author-developed concept:
 BAcc-Novelty
 which was introduced in previous projects.
