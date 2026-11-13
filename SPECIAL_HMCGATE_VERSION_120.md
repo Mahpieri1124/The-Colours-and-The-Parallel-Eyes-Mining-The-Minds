@@ -1,4 +1,6 @@
-*The Colours and The Parallel Eyes — Mining The Minds: The Hidden and the forbidden Secrets of the Sunrise — BAcc-Novelty — Multilayers and Multidimensional Aspects — Fragmentation and Hybrid-Designation — Passivity*
+# *The Colours and The Parallel Eyes — Mining The Minds: The Hidden and the forbidden Secrets of the Sunrise — BAcc-Novelty — Multilayers and Multidimensional Aspects — Fragmentation and Hybrid-Designation — Passivity*
+
+
 **In a world where ideas are humanity's existential capital, and their telos unfolds through autopoietic calculations .. . ..**
 >
  ***Special HMC-GATE***
