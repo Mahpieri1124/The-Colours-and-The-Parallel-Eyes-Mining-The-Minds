@@ -1,8 +1,23 @@
-The Colours and The Parallel Eyes — Mining The Minds: The Hidden and the forbidden Secrets of the Sunrise — BAcc-Novelty — Multilayers and Multidimensional Aspects — Fragmentation and Hybrid-Designation — Passivity
-In a world where ideas are humanity's existential capital, and their telos unfolds through autopoietic calculations .. . ..
+*The Colours and The Parallel Eyes — Mining The Minds: The Hidden and the forbidden Secrets of the Sunrise — BAcc-Novelty — Multilayers and Multidimensional Aspects — Fragmentation and Hybrid-Designation — Passivity*
+**In a world where ideas are humanity's existential capital, and their telos unfolds through autopoietic calculations .. . ..**
+>
+ ***Special HMC-GATE***
+***for this Repository-Version [doi.org/10.5281/zenodo.24207471]***
 
-Special HMC-GATE for this Version :
-This time, Passivity will lead Humanity to Extinction)) )  )    )        )
+This time, Passivity will lead Humanity to Extinction )) )  )      )           )
+
+When you think you are Smart
+
+When you think you are Doing the Best You Could
+
+But at the Best Case Scenarios you are always lots of Steps Behind where you should be now
+
+And in Normal Scenarios Your Results are Nothing but Slogans !
+
+AND THIS TIME,
+
+PASSIVITY WILL LEAD HUMANITY TO EXTINCTION )) )  )    )        )
+>
 
 Version: 1.2.0
 
