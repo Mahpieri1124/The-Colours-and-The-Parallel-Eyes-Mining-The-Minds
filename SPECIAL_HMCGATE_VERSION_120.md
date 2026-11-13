@@ -3,13 +3,21 @@ In a world where ideas are humanity's existential capital, and their telos unfol
 
 Special HMC-GATE for this Version :
 This time, Passivity will lead Humanity to Extinction)) )  )    )        )
+
 Version: 1.2.0
+
 DOI: https://doi.org/10.5281/zenodo.24207471
+
 Author and Idea Originator: Mohammad Piran
+
 Affiliation: Independent Interdisciplinary Researcher (Former PhD Candidate 2015)
+
 PNID: 23-112
+
 Status: Conceptual · Interdisciplinary · Systems-Oriented · Hypothesis-Generating · Pre-Empirical
+
 License: CC BY-NC-ND 4.0 International
+
 Research principle: Evolutionary Research — Evolution before Perfection.
 
 ## **Opening The HMC-Gate** 
